@@ -4,7 +4,7 @@ Easy management of "putty.json" file for Mac OS.
 
 ## Tutorial
 ### 使用方法1(use case 1)
-#### java -jar SimplePutty.jar 或 double click Simple.jar
+#### java -jar SimplePutty.jar 或 double click SimplePutty.jar
 
 ### 使用方法2(use case 2)
 #### 從windows putty應用程式轉來使用此app
