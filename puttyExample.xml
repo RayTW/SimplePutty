@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<Putty>
+		<Node Type="1">
+			<SavedSession>Default Settings</SavedSession>
+			<DisplayName>站別1</DisplayName>
+			<ServerName>1.2.3.4</ServerName>
+			<PuttyConType>4</PuttyConType>
+			<Port>22</Port>
+			<UserName>xxx_yyy</UserName>
+			<Password>=</Password>
+			<PasswordDelay>0</PasswordDelay>
+			<CLParams>1.2.3.4 -ssh -P 22 -l xxx_yyy</CLParams>
+			<ScriptDelay>0</ScriptDelay>
+		</Node>
+		<Node Type="1">
+			<SavedSession>Default Settings</SavedSession>
+			<DisplayName>站別2</DisplayName>
+			<ServerName>4.5.6.7</ServerName>
+			<PuttyConType>4</PuttyConType>
+			<Port>0</Port>
+			<UserName>xxx_yyy</UserName>
+			<Password>=</Password>
+			<PasswordDelay>0</PasswordDelay>
+			<CLParams>4.5.6.7 -ssh -l xxx_yyy</CLParams>
+			<ScriptDelay>0</ScriptDelay>
+		</Node>
+	</Putty>
+</Servers>

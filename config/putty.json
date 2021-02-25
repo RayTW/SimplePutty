@@ -1,0 +1,29 @@
+{
+  "Putty" : {
+    "Node" : [ {
+      "Type" : "1",
+      "SavedSession" : "Default Settings",
+      "DisplayName" : "站別1",
+      "ServerName" : "1.2.3.4",
+      "PuttyConType" : "4",
+      "Port" : "22",
+      "UserName" : "xxx_yyy",
+      "Password" : "=",
+      "PasswordDelay" : "0",
+      "CLParams" : "1.2.3.4 -ssh -P 22 -l xxx_yyy",
+      "ScriptDelay" : "0"
+    }, {
+      "Type" : "1",
+      "SavedSession" : "Default Settings",
+      "DisplayName" : "站別2",
+      "ServerName" : "4.5.6.7",
+      "PuttyConType" : "4",
+      "Port" : "0",
+      "UserName" : "xxx_yyy",
+      "Password" : "=",
+      "PasswordDelay" : "0",
+      "CLParams" : "4.5.6.7 -ssh -l xxx_yyy",
+      "ScriptDelay" : "0"
+    } ]
+  }
+}
