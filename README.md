@@ -2,7 +2,7 @@
 簡易管理ssh ip、user工具，僅適用於mac os。 
 Easy management of "putty.json" file for Mac OS.
 
-## tutorial
+## Tutorial
 ### 使用方法1(use case 1)
 #### java -jar SimplePutty.jar 或 double click Simple.jar
 
