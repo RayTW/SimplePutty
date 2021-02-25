@@ -14,3 +14,6 @@ Easy management of "putty.json" file for Mac OS.
 #### Migration from windows putty.
 1.Export file "putty.xml" uses windows application putty, and execute command line "java -jar SimplePutty.jar putty.xml" on terminal.
 2.Copy the json output save as file "putty.json".
+
+#preview
+![](https://github.com/RayTW/SimplePutty/blob/main/SimplePuttyPreview.png?raw=true)
